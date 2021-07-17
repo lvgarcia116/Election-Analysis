@@ -7,4 +7,4 @@ The purpose of this election aduit analysis was to assess the voter turnout for 
 
 
 ## Election-Audit Summary
-Where as this audit assessed which county had the most amount of votes, the election comission can reuse this script for any election to assess which county's had the least amount of votes. 
+Where as this audit assessed which county had the most amount of votes, the election comission can reuse this script for any election to assess which county's had the least amount of votes. It can also be used to assess the top 5 candidates that received the most votes, not just the top 3.
